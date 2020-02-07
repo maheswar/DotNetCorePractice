@@ -1,0 +1,13 @@
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\bin\Release\netcoreapp2.2\DotNetCorePractice.deps.json
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\bin\Release\netcoreapp2.2\DotNetCorePractice.runtimeconfig.json
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\bin\Release\netcoreapp2.2\DotNetCorePractice.runtimeconfig.dev.json
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\bin\Release\netcoreapp2.2\DotNetCorePractice.dll
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\bin\Release\netcoreapp2.2\DotNetCorePractice.pdb
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.csproj.CoreCompileInputs.cache
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.RazorAssemblyInfo.cache
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.RazorAssemblyInfo.cs
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.AssemblyInfoInputs.cache
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.AssemblyInfo.cs
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.RazorTargetAssemblyInfo.cache
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.dll
+C:\Learning\Github\DotNetCore\DotNetCorePractice\DotNetCorePractice\obj\Release\netcoreapp2.2\DotNetCorePractice.pdb
